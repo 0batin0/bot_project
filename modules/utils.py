@@ -1,0 +1,1 @@
+"def prevent_diamond_usage():\n    print('Elmas kullançmç kontrol ediliyor...')\n    return True" 
