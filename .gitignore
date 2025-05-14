@@ -1,1 +1,2 @@
 -e "# Python cache\n__pycache__/\n\n# Log dosyalarç\nlogs/" 
+bot_project/
